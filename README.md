@@ -6,15 +6,13 @@ package esempiocalcolojavatps;
 
 import java.util.Scanner;
 
-/**
+/*
  *
  * @author claudio.caputo
  */
+ 
 public class EsempioCalcoloJavaTPS {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         int b, h, area, perimetro;
         Scanner tastiera = new Scanner(System.in);
